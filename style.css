@@ -1,0 +1,14 @@
+* {
+font-family:Light 300 italic;
+}
+
+li:hover {
+color: limegreen;
+}
+p:hover {
+color: darkcyan;
+}
+::selection {
+    background: lightcyan;
+    color: darkred;
+}

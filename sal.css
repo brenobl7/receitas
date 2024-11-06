@@ -1,0 +1,11 @@
+
+li:hover {
+color: aliceblue;
+}
+p:hover {
+color: saddlebrown;
+}
+::selection {
+    background: lightgoldenrodyellow;
+    color: darkslateblue;
+}
